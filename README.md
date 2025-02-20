@@ -1,5 +1,5 @@
 # Promptograf 📚🚀
-**Promptograf 1.0 - Twój Pomocnik Promptograficzny!**
+**Promptograf 1.0 - Automatyczna bibliografia promptów AI**
 
 📖 **Promptograf** to repozytorium do automatycznego katalogowania i organizowania promptów używanych w badaniach naukowych i pracy twórczej z wykorzystaniem AI.
 
