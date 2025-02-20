@@ -1,0 +1,29 @@
+Autor promptu: Paweł Wolski
+Krótki tytuł: wkleję opis programu do promtów
+Użyty model AI: ChatGpt 4o
+Data: 20.02.2025
+Treść promptu:
+wkleję opis programu do promtów zrobiony poprtzednio. Dodstosuj go do kodów wygenerowanych przez ciebioe teraz (czyli do promtograf): Prompt Repository 📚🚀
+📖 Prompt Repository to repozytorium do automatycznego katalogowania i organizowania promptów używanych w badaniach naukowych i pracy twórczej z wykorzystaniem AI.
+
+🎯 Cel Stworzenie w pełni zautomatyzowanego generatora bibliograficznego promptów, który umożliwi łatwe archiwizowanie, udostępnianie i cytowanie promptów AI w kontekście naukowym i twórczym.
+
+📌 Jak to działa?
+
+Umieść plik .txt w katalogu raw_prompts/ (pierwsza linia – nazwa modelu AI, reszta – treść promptu).
+Workflow GitHub Actions automatycznie przetworzy plik.
+Wygenerowany opis promptu trafi do katalogu prompts/ z unikalnym linkiem.
+⚠️ Praca w toku!
+Projekt eksploruje nierozpoznane jeszcze w pełni obszary i dąży do wypracowania dobrych praktyk archiwizowania i udostępniania promptów AI w kontekście badań naukowych i twórczości.
+
+📢 Twoja opinia jest ważna!
+Repozytorium można swobodnie eksplorować i wykorzystywać ⚖️, ale zachęcamy użytkowników do dzielenia się uwagami, spostrzeżeniami i sugestiami dotyczącymi dalszego rozwoju. Twój feedback pomoże usprawnić system i dostosować go do realnych potrzeb społeczności!
+
+✉️ Kontakt:
+p.wolski.ux@akademiasztuki.eu
+pawel.wolski@usz.edu.pl
+
+INFO Projekt powstał przy wsparciu AI (chatGPT, STORM, Gemini). Najważniejsze prompty to:
+
+Wygenerowano w: Promptograf 1.0 - Twój Pomocnik Promptograficzny!
+https://github.com/tuPeWu/promptograf/blob/main/prompts_out/20250220_p-graf_0021.txt
