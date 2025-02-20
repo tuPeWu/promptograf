@@ -19,6 +19,7 @@ Projekt eksploruje nierozpoznane jeszcze w pełni obszary i dąży do wypracowan
 Repozytorium można swobodnie eksplorować i wykorzystywać ⚖️, ale zachęcamy użytkowników do dzielenia się uwagami, spostrzeżeniami i sugestiami dotyczącymi dalszego rozwoju. Twój feedback pomoże usprawnić system i dostosować go do realnych potrzeb społeczności!
 
 ✉️ **Kontakt:**
+
 p.wolski.ux@akademiasztuki.eu  
 pawel.wolski@usz.edu.pl
 
