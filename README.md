@@ -3,7 +3,7 @@
 
 📖 **Promptograf** to repozytorium do automatycznego katalogowania i organizowania promptów używanych w badaniach naukowych i pracy twórczej z wykorzystaniem AI.
 
-🎯 **Cel**
+🎯 **Cel:**
 Stworzenie w pełni zautomatyzowanego generatora bibliograficznego promptów (**"spisu promptograficznego"**, który umożliwi łatwe archiwizowanie, udostępnianie i cytowanie promptów AI w kontekście naukowym i twórczym.
 
 📌 **Jak to działa?**
