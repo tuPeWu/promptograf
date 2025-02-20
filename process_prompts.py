@@ -19,7 +19,7 @@ def process_prompt_file(input_file, output_dir, repo_url, commit_id):
     prompt_content = "".join(lines[1:]).strip()
     short_title = " ".join(prompt_content.split()[:5])
     date_str = datetime.datetime.now().strftime("%d.%m.%Y")
-    github_record_link = f"{repo_url}/commit/{commit_id}"
+    github_record_link = f"{repo_url}/blob/main/{output_dir}/{generate_unique_filename(output_dir)}"
     
     output_filename = generate_unique_filename(output_dir)
     output_path = os.path.join(output_dir, output_filename)
