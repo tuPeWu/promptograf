@@ -13,10 +13,9 @@ Stworzenie w pełni zautomatyzowanego generatora bibliograficznego promptów (**
 3. Wygenerowany opis promptu trafi do katalogu `prompts_out/` z unikalnym linkiem do widoku na GitHub.
 
 ⚠️ **Praca w toku!**
-Projekt eksploruje nierozpoznane jeszcze w pełni obszary i dąży do wypracowania dobrych praktyk archiwizowania i udostępniania promptów AI w kontekście badań naukowych i twórczości.
----
+Zamieszczone w tym repozytorium skrypty zawierają proste algorytmy przekształcania ciągu znaków (promptu) w formę zblizoną do opisu bibliograficznego. Ich prostotę usprawiedliwia  coraz mocniej paląca potrzeba normalizacji procedur stosowania AI w codziennym życiu i w pracy - w tym rónież akademickiej. Niniejszy projekt, będący na tę potrzebę spontaniczną odpowiedzią, być może jednak przekształci się kiedyś w szerzej zakrojone przedsięwzięcie (aplikację mobilną/webową? API?), DLATEGO: ⬇️ 
 
-📢 **Twoja opinia jest ważna!**
+📢 **Wspomóż Promptografa!**
 Repozytorium można swobodnie eksplorować i wykorzystywać ⚖️, ale zachęcamy użytkowników do dzielenia się uwagami, spostrzeżeniami i sugestiami dotyczącymi dalszego rozwoju. Twój feedback pomoże usprawnić system i dostosować go do realnych potrzeb społeczności!
 
 ✉️ **Kontakt:**
@@ -25,9 +24,9 @@ p.wolski.ux@akademiasztuki.eu
 pawel.wolski@usz.edu.pl
 
 ---
-**INFO:** 
+ℹ️ **INFO:** 
 
-Projekt powstał przy wsparciu ze strony  AI (ChatGPT, STORM, Gemini). Najważniejsze prompty to:
+Projekt powstał przy użyciu genAI (ChatGPT, STORM, Gemini). Najważniejsze prompty:
 
 https://github.com/tuPeWu/promptograf/blob/main/prompts_out/20250220_p-graf_0011.txt
 https://github.com/tuPeWu/promptograf/blob/main/prompts_out/20250220_p-graf_0010.txt
