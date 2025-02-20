@@ -1,0 +1,9 @@
+Autor promptu: Paweł Wolski
+Krótki tytuł: Jakie są najważniejsze zalety używania
+Użyty model AI: GPT-4
+Data: 20.02.2025
+Treść promptu:
+Jakie są najważniejsze zalety używania modeli językowych w pracy naukowej?
+
+Wygenerowano w: Promptograf 1.0 - Twój Pomocnik Promptograficzny!
+https://github.com/tuPeWu/promptograf/commit/f481df6207622ea8da2566d56bb030c9c4679c34
