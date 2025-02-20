@@ -24,4 +24,10 @@ p.wolski.ux@akademiasztuki.eu
 pawel.wolski@usz.edu.pl
 
 ---
-INFO: Projekt powstał przy wsparciu AI (ChatGPT, STORM, Gemini). Najważniejsze prompty to:
+**INFO:** 
+
+Projekt powstał przy wsparciu ze strony  AI (ChatGPT, STORM, Gemini). Najważniejsze prompty to:
+
+https://github.com/tuPeWu/promptograf/blob/main/prompts_out/20250220_p-graf_0011.txt
+https://github.com/tuPeWu/promptograf/blob/main/prompts_out/20250220_p-graf_0010.txt
+
