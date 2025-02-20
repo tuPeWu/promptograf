@@ -1,6 +1,5 @@
 import os
 import datetime
-import hashlib
 
 def generate_unique_filename(output_dir):
     """Generuje unikalną nazwę pliku na podstawie liczby plików w katalogu outputs."""
@@ -41,7 +40,7 @@ def process_prompt_file(input_file, output_dir, repo_url, commit_id):
 def main():
     input_dir = "prompts_in"
     output_dir = "prompts_out"
-    repo_url = "https://github.com/USERNAME/REPOSITORY"
+    repo_url = f"https://github.com/{os.getenv('GITHUB_REPOSITORY')}"
     commit_id = os.getenv("GITHUB_SHA", "unknown_commit")
     
     if not os.path.exists(output_dir):
