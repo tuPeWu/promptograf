@@ -2,14 +2,12 @@ import os
 import datetime
 
 def generate_unique_filename(output_dir):
-    """Generuje unikalną nazwę pliku na podstawie liczby plików w katalogu outputs."""
     date_str = datetime.datetime.now().strftime("%Y%m%d")
     existing_files = [f for f in os.listdir(output_dir) if f.endswith(".txt")]
     file_count = len(existing_files) + 1
     return f"{date_str}_p-graf_{file_count:04d}.txt"
 
 def process_prompt_file(input_file, output_dir, repo_url, commit_id):
-    """Przetwarza plik promptu i zapisuje go w katalogu outputs."""
     with open(input_file, "r", encoding="utf-8") as f:
         lines = f.readlines()
     
