@@ -12,7 +12,6 @@ Stworzenie w pełni zautomatyzowanego generatora bibliograficznego promptów (**
 2. Workflow GitHub Actions automatycznie przetworzy plik*.
 3. Wygenerowany opis promptu trafi do katalogu `prompts_out/` z unikalnym linkiem do widoku na GitHub.
 
-   *W skrypcie process_prompts.py **dane autora** promptu zapisane są jako **wartość stała** <f.write(f"Autor promptu: Paweł Wolski\n")>. Plik udostępniam na licencji MIT, można więc bez przeszkód edytować na własne potrzeby zarówno ten, jak i inne bloki koodu.
 
 ⚠️ **Praca w toku!**
 Zamieszczone w tym repozytorium skrypty zawierają proste algorytmy przekształcania ciągu znaków (promptu) w formę zblizoną do opisu bibliograficznego. Ich prostotę usprawiedliwia  coraz mocniej paląca potrzeba normalizacji procedur stosowania AI w codziennym życiu i w pracy - w tym rónież akademickiej. Niniejszy projekt, będący na tę potrzebę spontaniczną odpowiedzią, być może jednak przekształci się kiedyś w szerzej zakrojone przedsięwzięcie (aplikację mobilną/webową? API?), DLATEGO: ⬇️ 
@@ -33,3 +32,5 @@ Projekt powstał przy użyciu genAI (ChatGPT, STORM, Gemini). Najważniejsze pro
 https://github.com/tuPeWu/promptograf/blob/main/prompts_out/20250220_p-graf_0011.txt
 https://github.com/tuPeWu/promptograf/blob/main/prompts_out/20250220_p-graf_0010.txt
 
+---
+                          * *W skrypcie process_prompts.py **dane autora** promptu zapisane są jako **wartość stała** <f.write(f"Autor promptu: Paweł Wolski\n")>. Plik udostępniam na licencji MIT, można więc bez przeszkód edytować na własne potrzeby zarówno ten, jak i inne bloki koodu.*
