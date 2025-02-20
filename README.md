@@ -4,13 +4,15 @@
 📖 **Promptograf** to repozytorium do automatycznego katalogowania i organizowania promptów używanych w badaniach naukowych i pracy twórczej z wykorzystaniem AI.
 
 🎯 **Cel:**
-Stworzenie w pełni zautomatyzowanego generatora bibliograficznego promptów (**"spisu promptograficznego"**, który umożliwi łatwe archiwizowanie, udostępnianie i cytowanie promptów AI w kontekście naukowym i twórczym.
+Stworzenie w pełni zautomatyzowanego generatora bibliograficznego promptów (**"spisu promptograficznego"**), który umożliwi łatwe archiwizowanie, udostępnianie i cytowanie promptów AI w publikacjach naukowych, w biznesowych prezentacjach i raportach oraz w dokumentowaniu twórczosci artystycznej.
 
 📌 **Jak to działa?**
 
 1. Umieść plik `.txt` w katalogu `prompts_in/` (pierwsza linia – nazwa modelu AI, reszta – treść promptu).
-2. Workflow GitHub Actions automatycznie przetworzy plik.
+2. Workflow GitHub Actions automatycznie przetworzy plik*.
 3. Wygenerowany opis promptu trafi do katalogu `prompts_out/` z unikalnym linkiem do widoku na GitHub.
+
+   *W skrypcie process_prompts.py **dane autora** promptu zapisane są jako **wartość stała** <f.write(f"Autor promptu: Paweł Wolski\n")>. Plik udostępniam na licencji MIT, można więc bez przeszkód edytować na własne potrzeby zarówno ten, jak i inne bloki koodu.
 
 ⚠️ **Praca w toku!**
 Zamieszczone w tym repozytorium skrypty zawierają proste algorytmy przekształcania ciągu znaków (promptu) w formę zblizoną do opisu bibliograficznego. Ich prostotę usprawiedliwia  coraz mocniej paląca potrzeba normalizacji procedur stosowania AI w codziennym życiu i w pracy - w tym rónież akademickiej. Niniejszy projekt, będący na tę potrzebę spontaniczną odpowiedzią, być może jednak przekształci się kiedyś w szerzej zakrojone przedsięwzięcie (aplikację mobilną/webową? API?), DLATEGO: ⬇️ 
