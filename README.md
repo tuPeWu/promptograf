@@ -33,4 +33,8 @@ https://github.com/tuPeWu/promptograf/blob/main/prompts_out/20250220_p-graf_0011
 https://github.com/tuPeWu/promptograf/blob/main/prompts_out/20250220_p-graf_0010.txt
 
 ---
+**REF**
+https://library.umw.edu/citing/ai
+
+---
 * *W skrypcie process_prompts.py **dane autora** promptu zapisane są jako **wartość stała** <f.write(f"Autor promptu: Paweł Wolski\n")>. Plik udostępniam na licencji MIT, można więc bez przeszkód edytować na własne potrzeby zarówno ten, jak i inne bloki koodu.*
